@@ -1,0 +1,27 @@
+{
+    "key":"Ok",
+    "ip":"127.0.0.1:5000"
+}
+
+{
+    "name":"Lab Info"
+}
+
+{
+    "name":"Gustavo",
+    "cpf":"123.456.789",
+    "password":"123",
+    "key":"ok"
+}
+
+{
+    "nome":"Sala",
+    "tipoSala":{"id":1},
+    "door":{"id":2},
+    "descricao":"Sala"
+}
+
+{
+    "person":{"id":3},
+    "room":{"id":4}
+}
